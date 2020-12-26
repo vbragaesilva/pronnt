@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic&display=swap');
+body{
+  background-color: black;
+  color: white;
+  font-family: 'Andinka New Basic', sans-serif;
+}
+
+.center{
+  text-align: center;
+}
+
+.area{
+  outline: none;
+}
+
+.google{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	width: 25px;
+	height: 25px;
+}
+
+.grand3{
+	height: 380px;
+}
+
+.bw{ /* Button Wrapper */
+	margin: 30px;
+}
+
+button{
+  display: block;
+  background: none;
+  border: 2px solid white;
+  color: white;
+  padding: 12px;
+  border-radius: 20px;
+  font-size: 16px;
+  outline: none;
+  transition: 0.2s;
+}
+
+button:active{
+	background-color: white;
+	color: black;
+}
+
+.p-dica{
+	font-size: 26px;
+	margin: 40px;
+	padding: 20px;
+}
+
+.level{
+  display: block;
+  position: absolute;
+  margin: auto;
+  top:50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  background-color: rgba(50, 50, 50, 0.5);
+  padding: 80px 0;
+  width: 100%;
+}
+
+.level h1{
+  font-size: 50px;
+  padding: 60px 0;
+  background: none;
+  text-align: center;
+}
