@@ -1,7 +1,7 @@
 <html>
   <head>
     <title>PHP Test</title>
-    <link rel="stylesheet" href="../stuf/fstyle.css">
+    <link rel="stylesheet" href="/api/stuff/fstyle.css">
   </head>
   <body>
     <button> Clique </button>
