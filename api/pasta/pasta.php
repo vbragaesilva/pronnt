@@ -1,5 +1,5 @@
 <?php 
-  define('CSS_PATH', '/api/stuff/');
+  define('CSS_PATH', '/stuff/');
 
 ?>
 <!DOCTYPE html>
