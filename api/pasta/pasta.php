@@ -2,6 +2,7 @@
   define('CSS_PATH', '/api/stuff/');
 
 ?>
+<!DOCTYPE html>
 <html>
   <head>
     <title>PHP Test</title>
