@@ -1,7 +1,11 @@
+<?php 
+  define('CSS_PATH', '/api/stuff/');
+
+?>
 <html>
   <head>
     <title>PHP Test</title>
-    <link rel="stylesheet" href="/api/stuff/fstyle.css">
+    <link rel="stylesheet" href="<?php echo CSS_PATH; ?>fstyle.css">
   </head>
   <body>
     <button> Clique </button>
