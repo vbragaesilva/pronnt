@@ -11,7 +11,7 @@
 <body>
 	<audio src="/stuff/mus1.mp3" loop autoplay type="audio/mpeg"></audio>
 	<div class="level" id="level-number">
-		<h1>Nível 4</h1>
+		<h1>Level 6</h1>
 	</div>
 	<script type="text/javascript" src="/stuff/listener.js">
 		
@@ -22,7 +22,7 @@
     	<img src="/images/sem/tela6.jpg" alt="Vish..." class="grand3" usemap="#no"/>
     	<img src="/images/google.png" alt="Google..." class="google">
     	<map name="no">
-    		<area shape="poly" coords="85, 200, 156, 110, 148, 68, 97, 68, 85, 95, 74, 68, 20, 68, 14, 110" href="../level4/jose.php ">
+    		<area shape="poly" coords="85, 200, 156, 110, 148, 68, 97, 68, 85, 95, 74, 68, 20, 68, 14, 110" href="../level7/jose.php ">
     	</map>
     	<p class="p-dica">Tenho coração mas não tenho bigode</p>
     </div>
