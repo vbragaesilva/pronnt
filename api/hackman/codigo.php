@@ -18,7 +18,7 @@
 	<div class="center">
 		<img src="/images/quatro/tela5.png" usemap="#no">
 		<map name="no">
-			<area shape="poly" coords="398, 162, 431, 144, 407, 125" href="/deck/games.php" />
+			<area shape="poly" coords="398, 162, 431, 144, 407, 125" href="/api/deck/games.php" />
 		</map>
 		<p class="p-dica"> Linguagem dos computadores </p>
 	</div>
