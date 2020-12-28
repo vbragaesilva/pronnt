@@ -12,7 +12,7 @@
   <div class="center" >
     <img src="/images/tela1.jpg" alt="Faiou!" class="image" usemap="#no">
   <map name="no">
-   <area class="area" shape="poly" coords="312,122,385,96, 385, 400, 314, 400" href="falso/aqui.php" alt="Faiou!"/>
+   <area class="area" shape="poly" coords="312,122,385,96, 385, 400, 314, 400" href="level2/trancado.html" alt="Faiou!"/>
   </map>
   </div>
   <!-- Já quer olhar no código-fonte? --> 
