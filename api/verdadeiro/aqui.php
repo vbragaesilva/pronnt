@@ -16,7 +16,7 @@
     <div class="center">
     	<img src="/images/verdadeiro/tela3.jpg" alt="Vish..." class="grand3" usemap="#no"/>
 	<map name="no">
-		<area class="area" shape="poly" coords="85, 200, 156, 110, 148, 68, 97, 68, 85, 95, 74, 68, 20, 68, 14, 110" href="level4/jose.php" alt="Faiou!"/>
+		<area class="area" shape="poly" coords="85, 200, 156, 110, 148, 68, 97, 68, 85, 95, 74, 68, 20, 68, 14, 110" href="../level4/jose.php" alt="Faiou!"/>
 	</map>
     	<img src="/stuff/google.png" alt="Google..." class="google">
     	<p class="p-dica">Tenho coração mas não tenho bigode</p>
