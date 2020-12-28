@@ -20,7 +20,7 @@
     <script> document.getElementsByTagName('audio')[0].volume = 0.25;</script>
     <div class="center">
     	<img src="/images/sem/tela6.jpg" alt="Vish..." class="grand3" usemap="#no"/>
-    	<img src="../stuff/google.png" alt="Google..." class="google">
+    	<img src="/images/google.png" alt="Google..." class="google">
     	<map name="no">
     		<area shape="poly" coords="85, 200, 156, 110, 148, 68, 97, 68, 85, 95, 74, 68, 20, 68, 14, 110" href="../level4/jose.php ">
     	</map>
