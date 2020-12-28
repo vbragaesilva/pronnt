@@ -1,3 +1,11 @@
+<?php 
+	if( $_SERVER['PHP_AUTH_USER' !== 'quatro' || $_SERVER['PHP_AUTH_PW'] !== 'naipes' ){
+		header("WWW-Authenticate: Basic realm=\"Olhe no escuro\" ");
+		header("HTTP/ 1.0 401 Unauthorized");
+		echo '<h1>Unauthorized</h1>';
+		exit;
+	}
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
