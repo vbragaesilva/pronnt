@@ -17,7 +17,7 @@
     	<img src="/images/verdadeiro/tela3.jpg" alt="Vish..." class="grand3" usemap="#no"/>
 	<map>
 		<area class="area" shape="poly" coords="129, 300, 240, 165, 226, 103, 147, 101, 130, 145, 112, 102, 30, 103, 20, 165" href="level4/jose.php" alt="Faiou!"/>
-	</map>
+	</map name="no">
     	<img src="/stuff/google.png" alt="Google..." class="google">
     	<p class="p-dica">Tenho coração mas não tenho bigode</p>
     </div>
