@@ -15,6 +15,6 @@
    <area class="area" shape="poly" coords="312,122,385,96, 385, 400, 314, 400" href="falso/aqui.php" alt="Faiou!"/>
   </map>
   </div>
-  <!-- Se lembra do antigo? --> 
+  <!-- Já quer olhar no código-fonte? --> 
 </body>
 </html>
