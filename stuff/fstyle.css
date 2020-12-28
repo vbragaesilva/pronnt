@@ -9,7 +9,7 @@ body{
   text-align: center;
 }
 
-.area{
+area{
   outline: none;
 }
 
@@ -48,7 +48,7 @@ button:active{
 
 .p-dica{
 	font-size: 26px;
-	margin: 40px;
+	margin: 20px;
 	padding: 20px;
 }
 
