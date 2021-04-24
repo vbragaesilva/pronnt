@@ -1,3 +1,10 @@
+<?php 
+	if( $_SERVER['PHP_AUTH_USER'] !== 'sem' || $_SERVER['PHP_AUTH_PW'] !== 'tempo' ){
+		header("WWW-Authenticate: Basic realm=\"Olhe no escuro\" ");
+		echo '<h1>Unauthorized</h1>';
+		exit;
+	}
+?>
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
